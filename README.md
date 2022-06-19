@@ -8,3 +8,4 @@ Kelompok 6 UAP Web
 Pembagian Tugas:
 1. Arya Affanda Auliya Duha : Coding program html,php, menghias web
 2. Fathur Rahman Rais : Pembuatan database
+3. Alexander Thymoty : Hosting (gagal)
